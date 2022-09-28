@@ -6,8 +6,7 @@ body{
       background-color: gray;
 }
 p{
-      float: right;
-      margin-right: 100px;
+      font-size:24px;
 }
 h1{
       color:green;
