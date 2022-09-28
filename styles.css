@@ -7,7 +7,7 @@ body{
 }
 p{
       font-size:24px;
-      margins:100px 100px 100px 100px;
+      padding-left: 50px;
 }
 h1{
       color:green;
