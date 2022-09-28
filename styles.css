@@ -6,6 +6,7 @@ body{
       background-color: gray;
 }
 p{
+      font-color:green
       float: right;
       margin-right: 100px;
       width: 51%;
